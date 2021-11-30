@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell&display=swap');
+*{
+    margin: 0;
+    border: 0;
+    font-family: 'Cantarell', sans-serif;
+    height: 100%;
+   
+}
+body{
+    background-image: url(assets/icons/desktop.png);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    cursor: url('assets/icons/left_ptr.png'),auto;
+}
+.topbar{
+   
+    display: flex;
+    height: 25px;
+    background-color: #000000;
+    color: #fff;
+    justify-content: space-between;
+    
+}
+.topbar .activies{
+margin-left: 5px;
+
+}
+.topbar p{
+    padding-bottom: ;
+}
+.systemicons{
+    margin-top: 0;
+}
+.baricons{
+   margin-top: 2px;
+  height: 20px;
+filter: invert(1);
+margin-right: 3px;
+}
+.powermenu{
+   height: 10px;
+   margin-bottom: 4px;
+}
+.dashbar{
+    background-color: #0000007a;
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+    
+}
+.dashbar img {
+    margin: 2px;
+    height: 42px;
+    width: 42px;
+}
+.dashicon{
+    -webkit-filter: drop-shadow(12px 12px 25px rgba(0,0,0,0.5));
+    filter: url(#drop-shadow);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
+    filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";  
+}
+.dashicon .menubutton{
+    height: 100%;
+    border-collapse: collapse;
+    bottom: 0;
+}
+
+/* hover effects */
+.dashicon:hover{
+    background-color: #fcfcfc23;
+    transition: 200ms;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+        box-sizing: border-box;
+}
