@@ -82,7 +82,7 @@ width: 52%;
    margin-left: 23%;
    margin-right: 27%;
 }
-.date input{
+.date button{
    text-decoration: none;
 border: none;
 background: none;
@@ -116,7 +116,7 @@ font-size: 14px;
 
 /* hover effects */
 .dashicon:hover{
-    background-color: #fcfcfc23;
+    background-color: #fcfcfc6e;
     transition: 200ms;
     border-radius: 10px 10px 10px 10px;
     -webkit-box-sizing: border-box;

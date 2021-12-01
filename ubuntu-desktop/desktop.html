@@ -18,7 +18,7 @@
             <p class="active">Activies</p>
         </div>
         <div class="date">
-            <input type="button" value="24 Nov 20:54" onclick="exibirIframe();" />
+            <button type="button" onclick="Mudarestado('frames')">24 Nov 20:54</button>
 
         </div>
         <div class="systemicons">
@@ -53,10 +53,16 @@
 
 
 
-    <script>function exibirIframe() {
-            document.getElementById("frames").style.display = "block";
+    <SCript>
+        function Mudarestado(el) {
+            var display = document.getElementById(el).style.display;
+            if (display == "none")
+                document.getElementById(el).style.display = 'block';
+            else
+                document.getElementById(el).style.display = 'none';
+        }
 
-        }</script>
+    </SCript>
 </body>
 
 </html>
