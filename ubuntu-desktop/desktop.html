@@ -12,9 +12,15 @@
 </head>
 
 <body>
+
     <div class="topbar">
-        <p class="activies">Activies</p>
-        <p>24 Nov 20:54</p>
+        <div class="activies">
+            <p class="active">Activies</p>
+        </div>
+        <div class="date">
+            <input type="button" value="24 Nov 20:54" onclick="exibirIframe();" />
+
+        </div>
         <div class="systemicons">
             <img class="baricons" src="assets/icons/icons8-volume-64.png" alt="">
             <img class="baricons" src="assets/icons/Mobile-Battery-75-Percent-icon.png" alt="">
@@ -33,9 +39,24 @@
         <img class="dashicon" src="assets/icons/App-Taskmonitor-icon.png" alt="">
         <img class="dashicon" src="assets/icons/App-Pinterest-icon.png  " alt="">
         <img class="dashicon" src="assets/icons/App-Twitter-icon.png" alt="">
-        <img class="dashicon menubutton" src="assets/icons/App-Twitter-icon.png" alt="">
+        <img class="dashicon menubutton" src="pop/scalable/actions/view-app-grid-symbolic.svg" alt="">
     </div>
 
+    <div class=" iframes" id="frames">
+        <img src="" alt="">
+        <img src="assets/images/calendar.jpg" alt="">
+        <img src="" alt="">
+    </div>
+
+
+
+
+
+
+    <script>function exibirIframe() {
+            document.getElementById("frames").style.display = "block";
+
+        }</script>
 </body>
 
 </html>

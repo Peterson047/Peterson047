@@ -17,7 +17,7 @@ body{
    
     display: flex;
     height: 25px;
-    background-color: #000000;
+    background-color: #000000c7;
     color: #fff;
     justify-content: space-between;
     
@@ -60,11 +60,59 @@ margin-right: 3px;
     -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
     filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";  
 }
-.dashicon .menubutton{
+ .menubutton{
+    position: absolute;
     height: 100%;
-    border-collapse: collapse;
+    filter: invert(1);
     bottom: 0;
 }
+#frames{
+    display: none;
+}
+.iframes{
+   
+width: 52%;
+    position: absolute;
+   display: flex;
+   justify-content: center;
+    margin-top: 25px;
+    height: 395px;
+    z-index: 1;
+    top: 0;
+   margin-left: 23%;
+   margin-right: 27%;
+}
+.date input{
+   text-decoration: none;
+border: none;
+background: none;
+color: #fff;
+font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* hover effects */
 .dashicon:hover{
@@ -75,4 +123,20 @@ margin-right: 3px;
        -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
         box-sizing: border-box;
+}
+.activies:hover{
+    transition: 70ms;
+ margin: 0;
+ padding-left: 3px;
+ padding-right: 2px;
+       border-bottom: 2px solid rgba(9, 122, 228, 0.849);
+    margin-bottom: 0;
+}
+.date:hover{
+    transition: 70ms;
+    border-bottom: 2px solid rgb(15, 86, 219);
+}
+.systemicons:hover{
+    transition: 70ms;
+    border-bottom: 2px solid rgb(15, 86, 219);
 }
