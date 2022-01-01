@@ -1,0 +1,56 @@
+.top-menu {
+  display: flex;
+  max-width: 100%;
+  padding: 1em;
+  margin-bottom: .4em;
+  justify-content: space-around; }
+
+@media only screen and (max-width: 520px) {
+  .top-menu {
+    flex-direction: column; } }
+.top-menu h1 {
+  font-family: 'Playfair Display', serif; }
+
+.top-menu ul {
+  font-family: 'Heebo', sans-serif;
+  margin-top: 1.3%;
+  padding-left: 3%;
+  white-space: nowrap; }
+
+.top-menu ul li {
+  display: inline;
+  margin: 3%; }
+
+.top-menu ul li a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600; }
+
+#link-button a {
+  background-color: black;
+  padding: 8px;
+  border-radius: 20%;
+  color: #fff; }
+
+.content {
+  padding-right: 3%;
+  padding-left: 3%;
+  padding-top: 1%;
+  border-top: 2px solid #000; }
+
+.content h1 {
+  font-size: 20px; }
+
+.box-skill {
+  border: 1px solid black;
+  width: 330px; }
+
+.box-skill img {
+  height: 200px; }
+
+.skills {
+  display: flex;
+  padding: 3%;
+  justify-content: space-around; }
+
+/*# sourceMappingURL=style.css.map */
