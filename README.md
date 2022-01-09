@@ -1,7 +1,8 @@
 ### Ola me chamo Peterson Alves
 
-- 🔭Olá, Estou no caminho de me tornar um grande Front-End Designer;
-- 🌱 Me aprofundando em JS.
+- 🔭Olá, Sou desenvolvedor Front-End com conhecimentos em Marketing digital, produção de conteúdos e suporte personalizado;
+- 👩‍💻Atualmente estou me aprodundando em JavaScript e Bootstrap.
+- Tenho habilidades nas tecnologias listadas abaixo:
 
    <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
