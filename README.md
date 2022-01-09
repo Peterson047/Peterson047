@@ -1,6 +1,6 @@
 ### Ola me chamo Peterson Alves
-
-- 🔭Olá, Sou desenvolvedor Front-End com conhecimentos em Marketing digital, produção de conteúdos e suporte personalizado;
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭Olá, Sou desenvolvedor Front-End com conhecimentos em Marketing digital, produção de conteúdo e suporte personalizado.
 - 👩‍💻Atualmente estou me aprodundando em JavaScript e Bootstrap.
 - Tenho habilidades nas tecnologias listadas abaixo:
 
