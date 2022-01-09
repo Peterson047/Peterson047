@@ -1,5 +1,5 @@
 ### Ola me chamo Peterson Alves
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?peterson047=mustafacagri&count_private=true)
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?Peterson047=mustafacagri&count_private=true)
 - 🔭Olá, Sou desenvolvedor Front-End com conhecimentos em Marketing digital, produção de conteúdo e suporte personalizado.
 - 👩‍💻Atualmente estou me aprodundando em JavaScript e Bootstrap.
 - Tenho habilidades nas tecnologias listadas abaixo:
