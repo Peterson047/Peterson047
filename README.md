@@ -1,5 +1,5 @@
 ### Ola me chamo Peterson Alves
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?peterson047=vn7n24fzkq&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?Peterson047=vn7n24fzkq&theme=vue)
 - 🔭Olá, Sou desenvolvedor Front-End com conhecimentos em Marketing digital, produção de conteúdo e suporte personalizado.
 - 👩‍💻Atualmente estou me aprodundando em JavaScript e Bootstrap.
 - Tenho habilidades nas tecnologias listadas abaixo:
