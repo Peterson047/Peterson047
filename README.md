@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Peterson Alves</h1>
+<h1 align="center">Olá! 👋, Aqui é o Peterson!</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://peterson047.github.io/portfolio/](https://peterson047.github.io/portfolio/)
+- 📝 Eu escrevo sobre tecnologia no médium [https://petersonalves.com](https://medium.com/@peterrson047)
 
-- 📝 I regularly write articles on [https://petersonalves.com](https://petersonalves.ml)
-
-- 📫 How to reach me **qkeq@outlook.com.br**
+- 📫 How to reach me **peterrson047@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
