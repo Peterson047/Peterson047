@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋, Aqui é o Peterson!</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">Futuro cientista de Dados e IA</h3>
 
 - 📝 Eu escrevo sobre tecnologia no médium [https://petersonalves.com](https://medium.com/@peterrson047)
 
