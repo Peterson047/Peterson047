@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋, Aqui é o Peterson!</h1>
-<h3 align="center">Analista de Inteligência Artificial | Futuro Cientista de Dados</h3>
+<h3 align="center">Facilitador de IA | Futuro Cientista de Dados</h3>
 
 <p align="center" style="max-width:600px;">
 Sou analista facilitador em inteligência artificial, com foco em aplicar soluções práticas de IA e ciência de dados para otimizar processos e gerar insights valiosos para negócios. Trabalho lado a lado com tecnologia para transformar dados em decisões estratégicas.
