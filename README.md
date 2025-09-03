@@ -2,7 +2,7 @@
 <h3 align="center">Facilitador de IA | Futuro Cientista de Dados</h3>
 
 <p align="center" style="max-width:600px;">
-Sou analista facilitador em inteligência artificial, com foco em aplicar soluções práticas de IA e ciência de dados para otimizar processos e gerar insights valiosos para negócios. Trabalho lado a lado com tecnologia para transformar dados em decisões estratégicas.
+Sou assistente facilitador em inteligência artificial, com foco em aplicar soluções práticas de IA e ciência de dados para otimizar processos e gerar insights valiosos para negócios. Trabalho lado a lado com tecnologia para transformar dados em decisões estratégicas.
 </p>
 <p align="center">
   <a href="mailto:peterrson047@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
